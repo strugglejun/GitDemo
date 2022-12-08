@@ -1,1 +1,2 @@
 hello Git!!
+bug已修复!
