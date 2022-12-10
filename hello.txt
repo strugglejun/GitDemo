@@ -2,4 +2,5 @@ hello Git!!
 bug已修复!
 master rest!
 hot-fix text!
-远程库第一次修改！！
+远程库第一次修改！
+小付修改了小吴的远程库并推送到这个远程库！
